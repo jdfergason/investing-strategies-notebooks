@@ -1,0 +1,10 @@
+name: investing-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+    - yfinance
+    - pandas
+    - plotnine
