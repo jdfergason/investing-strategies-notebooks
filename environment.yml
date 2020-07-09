@@ -8,4 +8,4 @@ dependencies:
     - yfinance
     - pandas
     - plotnine
-    - dateutil
+    - python-dateutil
