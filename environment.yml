@@ -8,5 +8,5 @@ dependencies:
   - pip:
     - yfinance
     - pandas
-    - plotnine
+    - pyfolio
     - python-dateutil
