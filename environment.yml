@@ -8,5 +8,4 @@ dependencies:
   - pip:
     - yfinance
     - pandas
-    - pyfolio
-    - python-dateutil
+    - git+https://github.com/quantopian/pyfolio
